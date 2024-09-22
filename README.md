@@ -16,7 +16,7 @@
 
 ## Схема подключения
 
-![alt text](c:/Users/soyaro/Desktop/Рисунок1.jpg)
+![alt text](assets\сonnection-diagram.jpg)
 
 ## Настройки
 
@@ -38,4 +38,4 @@ unsigned char counterParkingPlace = 1; // кол-во парковочных м�
 
 ## Пример ворот
 
-![alt text](c:/Users/soyaro/Desktop/e-0W5q7DZko.jpg)
+![alt text](assets\e-0W5q7DZko.jpg)
