@@ -38,4 +38,4 @@ unsigned char counterParkingPlace = 1; // кол-во парковочных м�
 
 ## Пример ворот
 
-![alt text](assets\e-0W5q7DZko.jpg)
+![alt text](https://github.com/SoYaRoGit/Arduino-smart-gates/blob/main/assets/e-0W5q7DZko.jpg)
