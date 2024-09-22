@@ -16,7 +16,7 @@
 
 ## Схема подключения
 
-![alt text](assets\сonnection-diagram.jpg)
+![alt text](https://github.com/SoYaRoGit/Arduino-smart-gates/blob/main/assets/%D1%81onnection-diagram.jpg)
 
 ## Настройки
 
